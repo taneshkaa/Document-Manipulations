@@ -1,0 +1,7 @@
+python-docx
+pypdf
+pytesseract
+pdf2image
+opencv-python
+Pillow
+pandas
