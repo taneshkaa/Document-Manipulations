@@ -21,7 +21,7 @@ This project automates common document operations using Python, designed for RPA
 
 ## 🛠️ Tech Stack
 
-- Python 3.9+
+- Python 3.8+ (prefer latest version)
 - Libraries:
   - `os`, `shutil`, `pathlib`
   - `docx`, `PyPDF2`, `pdf2image`, `pytesseract`
